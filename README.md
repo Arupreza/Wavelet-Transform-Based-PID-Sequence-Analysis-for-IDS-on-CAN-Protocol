@@ -1,2 +1,5 @@
 # Wavelet-Transform-Based-PID-Sequence-Analysis-for-IDS-on-CAN-Protocol
 Frequency Domain Base Data Analysis (Wavelet)
+
+
+Due to the increasing complexity of the group of software and hardware components used in automobiles, current threats continue to hit the onboard network day after day. These additional components highlight the difficulties of developing compelling and responsive security solutions. To differentiate and defend automotive systems against deleterious exercises, a few intrusions detection systems (IDS) have been developed. Deep learning is one of the greatest options for detecting malicious packets where recurrent and convolutional neural network is vastly implemented. However, feature escalation is equally necessary for training a model. To safeguard automotive systems, we used an RNN-based LSTM algorithm as an intrusion detection system and wavelet conversion were used for feature escalation. This research emphasizes a depiction of vulnerabilities, high-lights threat models, and makes it simple to recognize known threats that are displayed within the CAN.
